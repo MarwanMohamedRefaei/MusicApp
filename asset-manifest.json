@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MusicApp/static/css/main.cb471131.css",
+    "main.js": "/MusicApp/static/js/main.7bc43032.js",
+    "index.html": "/MusicApp/index.html",
+    "main.cb471131.css.map": "/MusicApp/static/css/main.cb471131.css.map",
+    "main.7bc43032.js.map": "/MusicApp/static/js/main.7bc43032.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb471131.css",
+    "static/js/main.7bc43032.js"
+  ]
+}
